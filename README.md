@@ -1,0 +1,1 @@
+# mzay-aws-nodejs-sample
